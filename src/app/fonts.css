@@ -1,0 +1,37 @@
+/* Gordita Font */
+@font-face {
+	font-family: 'Gordita';
+	src: url('/fonts/Gordita/Gordita-Regular.otf');
+}
+
+@font-face {
+	font-family: 'Gordita';
+	font-style: italic;
+	src: url('/fonts/Gordita/Gordita-Italic.otf');
+}
+
+@font-face {
+	font-family: 'Gordita';
+	font-weight: 500;
+	src: url('/fonts/Gordita/Gordita-Medium.otf');
+}
+
+@font-face {
+	font-family: 'Gordita';
+	font-weight: 500;
+	font-style: italic;
+	src: url('/fonts/Gordita/Gordita-Medium-Italic.otf');
+}
+
+@font-face {
+	font-family: 'Gordita';
+	font-weight: 700;
+	src: url('/fonts/Gordita/Gordita-Bold.otf');
+}
+
+@font-face {
+	font-family: 'Gordita';
+	font-weight: 700;
+	font-style: italic;
+	src: url('/fonts/Gordita/Gordita-Bold-Italic.otf');
+}
