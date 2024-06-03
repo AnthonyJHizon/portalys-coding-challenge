@@ -4,6 +4,6 @@ Created responsive UI based on given [Figma Design](https://www.figma.com/design
 
 # Live Version
 
-[Click here to access the web app](https://portalys-coding-challenge.vercel.app/)
+https://portalys-coding-challenge.vercel.app/
 
 
